@@ -1,1 +1,1 @@
-worker: python rada_tracker/main.py
+worker: python main.py
