@@ -355,8 +355,8 @@ python-versions = "*"
 
 [metadata]
 lock-version = "1.1"
-python-versions = "^3.9.7"
-content-hash = "39e049dbd95cf785d0b1d9d3ef5f0c0a4e5e3c446d83ce214b0c7ab9d13e60c0"
+python-versions = "3.9.7"
+content-hash = "b29747a8d61fe077610acae722c93d95d091e42a8256aefc729ce7ddf437f597"
 
 [metadata.files]
 apscheduler = [
