@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "amnesty-tracker"
+name = "rada-tracker"
 version = "0.1.0"
 description = ""
-authors = ["licht1stein <mb@blaster.ai>"]
+authors = ["licht1stein <mb@m1k.pw>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"

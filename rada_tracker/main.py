@@ -38,7 +38,7 @@ def check_law(law):
 
 
 if __name__ == '__main__':
-    print("Starting rada tracker")
+    print("Starting rada-tracker")
     for l in laws:
         check_law(l)
     print("Sleeping 12 hours")

@@ -1,1 +1,1 @@
-worker: python amnesty_tracker/main.py
+worker: python rada_tracker/main.py
