@@ -5,7 +5,7 @@ description = ""
 authors = ["licht1stein <mb@m1k.pw>"]
 
 [tool.poetry.dependencies]
-python = "^3.9"
+python = "^3.9.7"
 beautifulsoup4 = "^4.10.0"
 requests = "^2.26.0"
 pendulum = "^2.1.2"
